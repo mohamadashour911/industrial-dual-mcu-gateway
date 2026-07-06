@@ -4,8 +4,7 @@ This repository contains the complete hardware design for an industrial-grade, m
 
 <!-- 📸 Master Sheet Schematic Render -->
 <!-- امسح السطر التالي وضع مكانه لقطة الشاشة الخاصة بالـ Master Sheet بسحبها وإفلاتها هنا -->
-<img width="1000" alt="Hierarchical Master Sheet Schematic" src="<img width="1236" height="756" alt="image" src="https://github.com/user-attachments/assets/3139ca4b-b365-42aa-8e68-deb0d8017a18" />
-" />
+<img width="1236" height="756" alt="image" src="https://github.com/user-attachments/assets/3139ca4b-b365-42aa-8e68-deb0d8017a18" />
 
 ---
 
@@ -46,7 +45,3 @@ Based on the hierarchical schematic layout, the system integrates the following 
 
 ---
 
-## 🛠️ Repository Content Structure
-* 📂 **Hardware-Design/**: Hierarchical Altium Designer multi-sheet project files (Schematics, Netlists, Layer Stackup definitions).
-* 📂 **Manufacturing-Outputs/**: Production-ready Gerber X2 profiles, Drill files, Pick-and-Place matrices, and Bill of Materials (BOM).
-* 📂 **Hardware-Documentation/**: High-resolution PDF versions of individual schematics sub-sheets and 3D top/bottom PCB renders.
